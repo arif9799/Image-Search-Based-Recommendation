@@ -1,6 +1,5 @@
 # Image-Search-Based-Fashion-Product-Recommendation
 
-Arif Sarfaraz Waghbakriwala, Meghana Ramesh, Mrudula Krishna Prasad
 
 1. Introduction
 
